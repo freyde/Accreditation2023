@@ -247,7 +247,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
 --------------------------------------*/
 .list-topics-area {
     position: relative;
-    background:url(../images/welcome-hero/banner.jpg)no-repeat;
+    background:url(../images/welcome-hero/cvsu.png)no-repeat;
     background-position:center;
     background-size:cover;
     text-align: center;
@@ -268,7 +268,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
 
 .welcome-hero {
     position: relative;
-    background:url(../images/welcome-hero/banner.jpg)no-repeat;
+    background:url(../images/welcome-hero/cvsu.png)no-repeat;
     background-position:center;
     background-size:cover;
     text-align: center;
@@ -282,7 +282,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     left: 0;
     width: 100%;
     height: 100%;
-    background:rgba(65,73,89,.65);
+    background:rgba(11, 13, 19, 0.80);
     z-index: -1;
 }
 .welcome-hero-txt { padding-top: 155px;}
