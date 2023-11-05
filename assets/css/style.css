@@ -233,12 +233,12 @@ nav.navbar.bootsnav ul.nav > li.dropdown span {
 nav.navbar.bootsnav .navbar-toggle {
     position: relative;
     background-color: transparent;
-    border: 1px solid #bb0da1
+    border: 1px solid #d86d09
 ;
     padding: 10px;
     top: 0;
 }
-nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
+nav.navbar.bootsnav .navbar-toggle i{color: #d86d09
 ;}
 /*.navbar-toggle */
 
@@ -272,7 +272,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     background-position:center;
     background-size:cover;
     text-align: center;
-    height:600px;
+    height:500px;
     z-index: 1;
 }
 .welcome-hero:before{
@@ -345,7 +345,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     color:  #fff;
     width:  170px;
     height:  70px;
-    background:  #bb0da1
+    background:  #d86d09
 ;
     text-transform:  capitalize;
     margin-left:  30px;
@@ -540,7 +540,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     width: 83px;
     height: 21px;
     line-height: 21px;
-    background: #bb0da1
+    background: #d86d09
 ;
     border-radius: 3px;
     color: #fcfcfc;
@@ -799,7 +799,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     text-transform: uppercase;
 }
 
-.single-blog-item:hover h2 a {color:#bb0da1
+.single-blog-item:hover h2 a {color:#d86d09
 ;}
 .single-blog-item:hover{
     box-shadow: 0 10px 20px rgba(21,19,19,.4);
@@ -864,7 +864,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     position: absolute;
     top: 0;
     right: 0;
-    background: #bb0da1
+    background: #d86d09
 ;
     display: inline-block;
     width: 180px;
@@ -952,9 +952,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     border-radius: 50%;
 }
 .footer-social span {margin-right:15px;margin-left: 0;color: #a5adb3;}
-.footer-social span:hover{color: #bb0da1
+.footer-social span:hover{color: #d86d09
 ;}
-.footer-social a:hover {background:#bb0da1
+.footer-social a:hover {background:#d86d09
 ;color: #fff;}
 
 /*===============================
@@ -972,9 +972,9 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
     font-size: 20px;
     cursor: pointer;
     color: #fff;
-    background:#bb0da1
+    background:#d86d09
 ;
-	border:1px solid #bb0da1
+	border:1px solid #d86d09
 ;
 	border-radius:50%;
 	-webkit-transition: .5s; 
@@ -986,7 +986,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #bb0da1
 }
 #scroll-Top  .return-to-top:hover {
     background:#f43032;
-	border:1px solid #bb0da1
+	border:1px solid #d86d09
 ;
 }
 
